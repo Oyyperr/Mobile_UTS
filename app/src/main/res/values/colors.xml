@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="green_50">#E8F5E9</color>
+    <color name="green_100">#C8E6C9</color>
+    <color name="green_700">#388E3C</color>
+    <color name="gray">#CCCCCC</color>
+    <color name="pink_light">#FFC1E3</color> <!-- Pink muda -->
+    <color name="pink">#FF69B4</color> <!-- Pink standar -->
+    <color name="pink_dark">#C2185B</color> <!-- Pink gelap -->
+    <color name="pink_pastel">#FFB6C1</color> <!-- Pink pastel -->
+    <color name="pink_hot">#FF1493</color> <!-- Hot pink -->
+
+</resources>
